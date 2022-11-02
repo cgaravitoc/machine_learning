@@ -1,2 +1,9 @@
 # machine_learning
-Machine learning projects
+Classic machine learning projects. 
+
+Here:
+## Supervised learning
+
+## Unsupervised learning
+
+Working datasets to define...
