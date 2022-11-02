@@ -1,9 +1,24 @@
 # machine_learning
 Classic machine learning projects. 
 
-Here:
+Working datasets to be define...
+
 ## Supervised learning
+In progress...
 
 ## Unsupervised learning
+In progress...
 
-Working datasets to define...
+## Engineering features
+In progress...
+
+## Model evaluation
+In progress...
+
+## Pipelines
+In progress...
+
+## Text Data
+In progress...
+
+
