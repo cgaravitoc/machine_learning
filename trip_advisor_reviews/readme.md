@@ -1,5 +1,5 @@
 # Trip advisor hotel reviews
-The purpose of this project is to analyse data from hotel reviews, in such a way that will be possible to implement a model that predicts the score for a given hotel.
+The purpose of this project is to analyse data from hotel reviews, in such a way that will be possible to implement a model that predicts the score for a given review.
 
 ## Project folder structure
 The folder structure for this project is the following:
